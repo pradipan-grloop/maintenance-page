@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import clientLogo from "./assets/images/stiched-health-logo-light.png"
+import clientLogo from "./assets/images/client-logo.png"
 import hostLogo from "./assets/images/glt-logo.svg"
 
 const domainName = import.meta.env.VITE_MAINTENANCE_DOMAIN_NAME;
